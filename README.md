@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMGuimaraes&show_icons=true) 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height=10 weight=10/> 
+##Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height=100 weight=100/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMGuimaraes&layout=compact)]
 
