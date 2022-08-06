@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=100 weight=100/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=100 weight=100/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height=100 weight=100/>
+  <img src="https://www.r-project.org/logo/Rlogo.svg" height=100 weight=100/>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMGuimaraes&layout=compact)
