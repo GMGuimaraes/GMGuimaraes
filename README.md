@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div flex-direction:row>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMGuimaraes&show_icons=true) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMGuimaraes&layout=compact)
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMGuimaraes&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMGuimaraes&layout=compact)
+
 ## Tecnologias
 <div flex-direction:row>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height=100 weight=100 /> 
