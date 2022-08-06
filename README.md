@@ -40,6 +40,10 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Firebird_logo.svg" height=100 weight=100/>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height=100 weight=100/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png?20210301045217" height=100 weight=100/>
+  <img src="https://seeklogo.com/images/B/bizagi-logo-14AE33A805-seeklogo.com.png" height=100 weight=100/>
+  <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" height=100 weight=100/>
+  <img src="" height=100 weight=100/>
+  <img src="" height=100 weight=100/>
 </div>
 
 
