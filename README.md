@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMGuimaraes&show_icons=true) 
+<div flex-direction:row>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMGuimaraes&show_icons=true) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMGuimaraes&layout=compact)
+</div>
 ## Tecnologias
 <div flex-direction:row>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height=100 weight=100 /> 
@@ -35,7 +37,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=100 weight=100/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height=100 weight=100/>
   <img src="https://www.r-project.org/logo/Rlogo.svg" height=100 weight=100/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Firebird_logo.svg" height=100 weight=100/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height=100 weight=100/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png?20210301045217" height=100 weight=100/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMGuimaraes&layout=compact)
+
 
